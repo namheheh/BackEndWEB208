@@ -1,9 +1,9 @@
 import express from "express";
-import route from "../Routes/product";
-import routeUser from "../Routes/User";
+import route from "./Routes/product";
+import routeUser from "./Routes/User";
 import mongoose from "mongoose";
-import Category from "../Routes/Category";
-import RouterOrder from "../Routes/Order";
+import Category from "./Routes/Category";
+import RouterOrder from "./Routes/Order";
 import cors from "cors";
 
 const app = express();
