@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "web_208",
+    "name": "back-end-web-208-gmzb",
     "builds": [
         {
             "src": "app.js",
